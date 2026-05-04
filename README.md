@@ -5,7 +5,6 @@
 ## 运行方式
 
 ```bash
-pip install -r requirements.txt  # 如无特殊环境可直接跳过
 export PYTHONPATH=./src
 python main.py        # 命令行版本
 python gui_main.py    # 图形界面版本
